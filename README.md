@@ -2,7 +2,7 @@
 
 Basically here are my steps I need to do so far 
 
-    - The idea is to come back to this project this will be an ongoing project. HOWEVER this is important to me and want to create something in memory of Gabe  would like to create an Ai similar to Jarvis but better and one that can do many things like Jarvis and different and more specific to my needs. I know Gabe was a huge marvel fan and  so I dedicate this to him.😎
+    The idea is to come back to this project this will be an ongoing project. HOWEVER this is important to me and want to create something in memory of Gabe  would like to create an Ai similar to Jarvis but better and one that can do many things like Jarvis and different and more specific to my needs. I know Gabe was a huge marvel fan and  so I dedicate this to him.😎
 
 CURRENT STATUS:  We are now just learning to use Git and have been able to fork a repo that fits our needs link here to the forked repo.
 
